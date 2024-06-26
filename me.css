@@ -1,0 +1,37 @@
+body{
+    background-color: bisque;
+}
+#introduction {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 90px;
+    width: 100%;
+    background-color:rgba(255, 145, 158, 0.747);
+}
+#char {
+    text-align:left ;
+}
+.same-row {
+    display: inline-block;
+}
+#contact {
+    display: inline-block;
+    list-style-type: none;
+}
+
+h1,h2,h3{
+    font-family: "Georgia";
+}
+p{
+    font-family: Arial, Helvetica, san-serif;
+    margin-top: 0;
+}
+button {
+    background-color: darksalmon;
+    border: none;
+    color:grey;
+}
+h2,h3 {
+    margin-BOTTOM: 0;
+}
